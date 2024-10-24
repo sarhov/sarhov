@@ -1,6 +1,9 @@
 # Hi there, I'm Hovhannes Sargsyan 👋
 
-I'm a **Full Stack Shopify Developer** with 15 years of real-world experience, specializing in **Shopify** and **Shopify Plus** development. I’m passionate about creating and optimizing eCommerce experiences, with a strong focus on **site performance**, **automation**, and **custom development**.
+I am an **officially certified Shopify developer**!  
+[View my certification](https://www.credly.com/badges/125e9c6c-f41a-4008-b0ec-ca7e9d55f736/public_url)
+
+I'm a **Full Stack Shopify Developer** with 15 years of real-world experience, specializing in **Shopify** and **Shopify Plus** development. I’ve successfully completed **over 300 projects** through platforms like **Upwork**. Passionate about creating and optimizing eCommerce experiences, I focus on **site performance**, **automation**, and **custom development**.
 
 ---
 
@@ -18,13 +21,15 @@ I'm a **Full Stack Shopify Developer** with 15 years of real-world experience, s
 
 **Lead Shopify Developer @ Puffy.com / RGG Media**  
 *2019 - 2024*  
-- Led the development team for Shopify Plus setups, automations, and branch strategies.
-- Optimized site speed and implemented various custom functionalities for a robust user experience.
+- Led the development team for **Shopify Plus** setups, automations, and branch strategies.
+- Optimized site speed and implemented custom functionalities for a robust user experience.  
+- [Visit Puffy](https://www.puffy.com) | [LinkedIn - Puffy Experience](https://www.linkedin.com/company/puffy/)
 
 **Senior Shopify Developer**  
 *2014 - 2019*  
 - Built over 100 Shopify stores and apps with a strong emphasis on performance and user experience.
-- Specialization in Shopify Plus development, custom Liquid implementations, and API integrations.
+- Specialization in Shopify Plus development, custom Liquid implementations, and API integrations.  
+- [View my Upwork profile](https://www.upwork.com/freelancers/sarhov)
 
 **Front-End Developer**  
 *2011 - 2014*  
