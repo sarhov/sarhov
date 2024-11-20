@@ -39,13 +39,14 @@ I'm a **Full Stack Shopify Developer** with 15 years of real-world experience, s
 
 ## 📫 Get in Touch
 
-- **Portfolio**: [sarhov.com](https://sarhov.com)
+- **Empty Website Of Mine... hahah**: [sarhov.com](https://sarhov.com)
 - **GitHub**: [github.com/sarhov](https://github.com/sarhov)
 - **LinkedIn**: [linkedin.com/in/sarhov](https://www.linkedin.com/in/sarhov)
+- ** The Starters**: https://www.hirethestarters.com/the-starters-freelancers/Hovhannes-rechjr5eqSmK3Vysl
 - **Email**: [sarhov@sarhov.com](mailto:sarhov@sarhov.com)
 
 ---
 
 ## 🌟 Fun Fact
 
-I'm always exploring new ways to improve Shopify development and automation processes, ensuring fast, efficient, and reliable eCommerce experiences.
+I can swim 4 hours non stop.
