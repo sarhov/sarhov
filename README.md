@@ -42,7 +42,7 @@ I'm a **Full Stack Shopify Developer** with 15 years of real-world experience, s
 - **Empty Website Of Mine... hahah**: [sarhov.com](https://sarhov.com)
 - **GitHub**: [github.com/sarhov](https://github.com/sarhov)
 - **LinkedIn**: [linkedin.com/in/sarhov](https://www.linkedin.com/in/sarhov)
-- ** The Starters**: https://www.hirethestarters.com/the-starters-freelancers/Hovhannes-rechjr5eqSmK3Vysl
+- **The Starters**: https://www.hirethestarters.com/the-starters-freelancers/Hovhannes-rechjr5eqSmK3Vysl
 - **Email**: [sarhov@sarhov.com](mailto:sarhov@sarhov.com)
 
 ---
